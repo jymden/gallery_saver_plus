@@ -27,7 +27,7 @@ apply plugin: 'kotlin-android'
 
 android {
     namespace "carnegietechnologies.gallery_saver"
-    compileSdkVersion 30
+    compileSdkVersion 34
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_17
